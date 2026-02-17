@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <a href="https://www.linkedin.com/in/mpalmer1234/" target="_blank" rel="noopener noreferrer">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  </a>
 </p>
 
 AI Deployment & Solutions Specialist  
