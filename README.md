@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # Michael Palmer
 
 AI Deployment & Solutions Specialist  
 Automotive AI • Full-Stack Systems • Workflow Automation
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mpalmer79&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 ---
 
@@ -20,6 +28,19 @@ Primary domains:
 ---
 
 ## Core Capabilities
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1e293b?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1e293b?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-1e293b?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-1e293b?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-1e293b?style=flat&logo=netlify&logoColor=white" />
+</p>
 
 **AI Systems**
 - LLM integration (OpenAI APIs, structured output, tool-calling)
@@ -75,5 +96,4 @@ I build systems with that standard.
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
