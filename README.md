@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+# Michael Palmer
 
 AI Deployment & Solutions Specialist  
-• Full-Stack Systems • Workflow Automation
+Automotive AI • Full-Stack Systems • Workflow Automation
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mpalmer79&label=Profile%20Views&color=0A66C2&style=flat" />
@@ -28,6 +29,8 @@ Primary domains:
 
 ## Core Capabilities
 
+### Primary Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1e293b?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat&logo=fastapi&logoColor=white" />
@@ -38,8 +41,35 @@ Primary domains:
   <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-1e293b?style=flat&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-1e293b?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-1e293b?style=flat&logo=netlify&logoColor=white" />
 </p>
+
+### Platforms & Deployment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-1e293b?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-1e293b?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-1e293b?style=flat&logo=railway&logoColor=white" />
+</p>
+
+### Data & Backend Services
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-1e293b?style=flat&logo=supabase&logoColor=white" />
+</p>
+
+### Messaging & Communications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Twilio-1e293b?style=flat&logo=twilio&logoColor=white" />
+</p>
+
+### AI Developer Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-1e293b?style=flat&logo=anthropic&logoColor=white" />
+</p>
+
+---
 
 **AI Systems**
 - LLM integration (OpenAI APIs, structured output, tool-calling)
@@ -62,6 +92,9 @@ Primary domains:
 
 **Infrastructure**
 - Netlify / serverless deployments
+- Vercel deployments (Next.js)
+- Railway deployments (services & APIs)
+- Supabase (Postgres + auth + backend services)
 - Environment configuration & secure API handling
 - Structured logging & observability patterns
 
