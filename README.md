@@ -124,3 +124,80 @@ flowchart LR
     AGENTS --> LLM[LLM Provider APIs]
     API --> DB[(PostgreSQL)]
     API --> WS[WebSocket Broadcast Layer]
+```
+
+### LivePulse – Real-Time AI Insights Engine
+
+```mermaid
+flowchart LR
+    EVENTS[Event Stream] --> ENGINE[Insights Engine]
+    ENGINE --> METRICS[Rolling Window Metrics]
+    METRICS --> LLM[LLM Evaluation]
+    ENGINE --> WS[WebSocket Broadcast]
+    WS --> DASH[Operational Dashboard]
+    ENGINE --> DB[(PostgreSQL)]
+```
+
+---
+
+## Operational Metrics
+
+### AgentHub
+- Multi-agent workflow execution with structured tool-calling
+- Real-time orchestration via async FastAPI
+- WebSocket broadcast architecture for live state updates
+- Modular agent framework supporting scalable expansion
+
+### LivePulse
+- Rolling window metric evaluation engine
+- Sub-second event ingestion pipeline
+- Real-time dashboard broadcast architecture
+- AI-driven recommendation layer integrated with operational data
+
+### Cyber Shield
+- Interactive phishing simulation workflows
+- Scenario-based AI evaluation
+- Structured training feedback loops
+
+---
+
+## System Design Principles
+
+- Workflow-first design
+- Reliability over novelty
+- Composable architecture
+- Event-driven real-time systems
+- Human-in-the-loop AI
+- Security-conscious engineering
+- Built-in observability
+
+---
+
+## Production Readiness Standards
+
+- Structured outputs for AI reliability  
+- Safe tool execution & permission boundaries  
+- Clear API/service boundaries  
+- Secure secret management  
+- Graceful failure handling  
+- Operational logging & traceability  
+- Maintainable, modular architecture  
+
+---
+
+## Philosophy
+
+AI should:
+- Reduce friction
+- Increase clarity
+- Integrate into existing workflows
+- Deliver measurable operational lift
+
+I build systems with that standard.
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
