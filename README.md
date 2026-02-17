@@ -4,6 +4,8 @@
   </a>
 </p>
 
+# Michael Palmer
+
 AI Deployment & Solutions Specialist  
 Automotive AI • Full-Stack Systems • Workflow Automation
 
@@ -104,8 +106,8 @@ Agent experimentation sandbox for building and iterating on multi-step AI workfl
 
 ---
 
-### AI Showroom Experience (Automotive Kiosk System)
-In-store intelligent vehicle browsing system enabling structured search, comparison logic, and AI-assisted product exploration.  
+### [Quirk AI Kiosk – Automotive Showroom Platform](https://github.com/mpalmer79/quirk-ai-kiosk)
+AI-powered automotive showroom kiosk enabling intelligent vehicle search, structured comparison logic, and real-time inventory integration.  
 **Stack:** Next.js, TypeScript, API Integrations
 
 ---
