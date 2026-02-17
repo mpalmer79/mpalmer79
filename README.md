@@ -74,5 +74,6 @@ I build systems with that standard.
 
 ## Connect
 
-GitHub: https://github.com/mpalmer79  
-LinkedIn: https://www.linkedin.com/in/mpalmer1234/
+[![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
