@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+# Michael Palmer
+
 AI Deployment & Solutions Specialist  
 Automotive AI • Full-Stack Systems • Workflow Automation
 
@@ -100,6 +102,10 @@ Primary domains:
 
 ## Selected Work
 
+### AgentHub
+Centralized AI agent management and orchestration platform for building, testing, and deploying structured multi-agent workflows. Designed for scalable agent coordination, tool integration, and operational AI control layers.  
+Repo: https://github.com/mpalmer79/AgentHub
+
 ### LivePulse (AI Insights Engine)
 Real-time operational intelligence platform that ingests event streams, evaluates rolling metrics, and surfaces AI-driven recommendations via WebSocket broadcast architecture.
 
@@ -108,6 +114,22 @@ Interactive phishing detection and social engineering simulation built with Next
 
 ### AI Showroom Experience (Automotive Kiosk System)
 In-store intelligent vehicle browsing system enabling structured search, comparison logic, and AI-assisted product exploration.
+
+### Cyber Shield
+AI-powered cybersecurity training and simulation platform focused on phishing detection, social engineering awareness, and interactive learning workflows.  
+Repo: https://github.com/mpalmer79/cyber-shield
+
+### ReplyGenius AI
+AI-assisted message drafting and reply generation tool designed for fast, consistent, and high-quality communication output.  
+Repo: https://github.com/mpalmer79/replygenius-ai
+
+### Pharma Rep Trainer
+AI-driven training and roleplay system designed to simulate pharmaceutical rep conversations, objection handling, and structured sales coaching.  
+Repo: https://github.com/mpalmer79/pharma-rep-trainer
+
+### AgentForge
+Agent experimentation and orchestration sandbox for building, testing, and iterating on multi-step AI agent workflows.  
+Repo: https://github.com/mpalmer79/agentforge
 
 ---
 
