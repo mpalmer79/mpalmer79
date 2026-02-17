@@ -16,13 +16,13 @@ Automotive AI • Full-Stack Systems • Workflow Automation
 ## About
 
 I design and deploy practical AI systems that integrate directly into real-world business workflows.  
-My focus is applied AI — not demos, but production-ready tools that improve operations, visibility, and decision-making.
+My focus is applied AI — production-ready systems that improve operations, visibility, and decision-making.
 
 Primary domains:
 - Automotive retail intelligence
 - AI-assisted workflow automation
-- Full-stack application architecture
-- Real-time data systems
+- Multi-agent systems & orchestration
+- Real-time operational dashboards
 - Human-in-the-loop AI tooling
 
 ---
@@ -51,19 +51,14 @@ Primary domains:
   <img src="https://img.shields.io/badge/Railway-1e293b?style=flat&logo=railway&logoColor=white" />
 </p>
 
-### Data & Backend Services
+### Data & Services
 
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-1e293b?style=flat&logo=supabase&logoColor=white" />
-</p>
-
-### Messaging & Communications
-
-<p align="left">
   <img src="https://img.shields.io/badge/Twilio-1e293b?style=flat&logo=twilio&logoColor=white" />
 </p>
 
-### AI Developer Tooling
+### AI Tooling
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-1e293b?style=flat&logo=anthropic&logoColor=white" />
@@ -71,65 +66,47 @@ Primary domains:
 
 ---
 
-**AI Systems**
-- LLM integration (OpenAI APIs, structured output, tool-calling)
-- AI insights engines & recommendation systems
-- Prompt engineering for operational reliability
-- Real-time inference pipelines
+## Selected Work
 
-**Backend Engineering**
-- Python (FastAPI, async systems)
-- Node.js / TypeScript
-- REST & event-driven architectures
-- WebSocket-based real-time systems
-- API orchestration layers
-
-**Frontend & Product**
-- React / Next.js
-- TypeScript
-- UI systems for operational dashboards
-- Internal AI tooling interfaces
-
-**Infrastructure**
-- Netlify / serverless deployments
-- Vercel deployments (Next.js)
-- Railway deployments (services & APIs)
-- Supabase (Postgres + auth + backend services)
-- Environment configuration & secure API handling
-- Structured logging & observability patterns
+### [AgentHub](https://github.com/mpalmer79/AgentHub)
+Centralized AI agent orchestration platform for building, testing, and deploying structured multi-agent workflows. Designed for scalable coordination, tool integration, and operational AI control layers.  
+**Stack:** Python, FastAPI, WebSockets, OpenAI API, PostgreSQL
 
 ---
 
-## Selected Work
+### [LivePulse – AI Insights Engine](https://github.com/mpalmer79/livepulse)
+Real-time operational intelligence platform that ingests event streams, evaluates rolling metrics, and broadcasts AI-driven recommendations via WebSocket architecture.  
+**Stack:** Python, FastAPI, WebSockets, React, PostgreSQL
 
-### AgentHub
-Centralized AI agent management and orchestration platform for building, testing, and deploying structured multi-agent workflows. Designed for scalable agent coordination, tool integration, and operational AI control layers.  
-Repo: https://github.com/mpalmer79/AgentHub
+---
 
-### LivePulse (AI Insights Engine)
-Real-time operational intelligence platform that ingests event streams, evaluates rolling metrics, and surfaces AI-driven recommendations via WebSocket broadcast architecture.
+### [Cyber Shield](https://github.com/mpalmer79/cyber-shield)
+AI-powered cybersecurity simulation platform focused on phishing detection, social engineering awareness, and interactive training workflows.  
+**Stack:** Next.js 14, React 18, TypeScript
 
-### AI-Powered Cybersecurity Training Platform
-Interactive phishing detection and social engineering simulation built with Next.js 14, React 18, and TypeScript.
+---
+
+### [ReplyGenius AI](https://github.com/mpalmer79/replygenius-ai)
+AI-assisted communication drafting system built for structured, fast, and consistent response generation across professional workflows.  
+**Stack:** TypeScript, OpenAI API
+
+---
+
+### [Pharma Rep Trainer](https://github.com/mpalmer79/pharma-rep-trainer)
+AI-driven sales training and roleplay platform simulating pharmaceutical rep conversations, objection handling, and structured coaching feedback.  
+**Stack:** Python, LLM Integration, Scenario Simulation Engine
+
+---
+
+### [AgentForge](https://github.com/mpalmer79/agentforge)
+Agent experimentation sandbox for building and iterating on multi-step AI workflows and orchestration logic.  
+**Stack:** Python, OpenAI API, Tool-Calling Frameworks
+
+---
 
 ### AI Showroom Experience (Automotive Kiosk System)
-In-store intelligent vehicle browsing system enabling structured search, comparison logic, and AI-assisted product exploration.
-
-### Cyber Shield
-AI-powered cybersecurity training and simulation platform focused on phishing detection, social engineering awareness, and interactive learning workflows.  
-Repo: https://github.com/mpalmer79/cyber-shield
-
-### ReplyGenius AI
-AI-assisted message drafting and reply generation tool designed for fast, consistent, and high-quality communication output.  
-Repo: https://github.com/mpalmer79/replygenius-ai
-
-### Pharma Rep Trainer
-AI-driven training and roleplay system designed to simulate pharmaceutical rep conversations, objection handling, and structured sales coaching.  
-Repo: https://github.com/mpalmer79/pharma-rep-trainer
-
-### AgentForge
-Agent experimentation and orchestration sandbox for building, testing, and iterating on multi-step AI agent workflows.  
-Repo: https://github.com/mpalmer79/agentforge
+In-store intelligent vehicle browsing system enabling structured search, comparison logic, and AI-assisted product exploration.  
+**Stack:** Next.js, TypeScript, API Integrations
 
 ---
 
