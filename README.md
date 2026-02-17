@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+# Michael Palmer
+
 AI Deployment & Solutions Specialist  
 Automotive AI • Full-Stack Systems • Workflow Automation
 
@@ -108,19 +110,15 @@ In-store intelligent vehicle browsing system enabling structured search, compari
 
 ---
 
-## Philosophy
+## Architecture Overview
 
-AI should:
-- Reduce friction
-- Increase clarity
-- Integrate into existing workflows
-- Deliver measurable operational lift
+### AgentHub – Multi-Agent Orchestration
 
-I build systems with that standard.
-
----
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
+```mermaid
+flowchart LR
+    UI[Admin / Control UI] --> API[FastAPI Orchestrator]
+    API --> AGENTS[Agent Layer]
+    AGENTS --> TOOLS[Tool Integrations]
+    AGENTS --> LLM[LLM Provider APIs]
+    API --> DB[(PostgreSQL)]
+    API --> WS[WebSocket Broadcast Layer]
