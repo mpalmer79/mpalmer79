@@ -4,7 +4,7 @@
 
 
 AI Deployment & Solutions Specialist  
-Automotive AI • Full-Stack Systems • Workflow Automation
+• Full-Stack Systems • Workflow Automation
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mpalmer79&label=Profile%20Views&color=0A66C2&style=flat" />
