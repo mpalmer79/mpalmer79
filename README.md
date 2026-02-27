@@ -1,7 +1,7 @@
 # Michael Palmer
 
 AI Deployment & Solutions Specialist  
-Automotive AI • Full-Stack Systems • Workflow Automation
+Automotive AI • Full-Stack Systems • Workflow Automation  
 (Greater Boston area)
 
 <p align="left">
