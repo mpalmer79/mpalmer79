@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/mpalmer1234/" target="_blank" rel="noopener noreferrer">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Michael%20Palmer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-  </a>
-</p>
-
 # Michael Palmer
 
 AI Deployment & Solutions Specialist  
@@ -201,3 +195,7 @@ I build systems with that standard.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
+
+---
+
+<sub>Banner photo by <a href="https://unsplash.com/@jakubzerdzicki">Jakub Żerdzicki</a> on <a href="https://unsplash.com">Unsplash</a></sub>
