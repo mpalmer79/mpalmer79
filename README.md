@@ -2,6 +2,7 @@
 
 AI Deployment & Solutions Specialist  
 Automotive AI • Full-Stack Systems • Workflow Automation
+(Greater Boston area)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mpalmer79&label=Profile%20Views&color=0A66C2&style=flat" />
@@ -58,6 +59,9 @@ Primary domains:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-1e293b?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-1e293b?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Code-1e293b?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-1e293b?style=flat&logo=x&logoColor=white" />
 </p>
 
 ---
@@ -97,12 +101,6 @@ AI-driven sales training and roleplay platform simulating pharmaceutical rep con
 ### [AgentForge](https://github.com/mpalmer79/agentforge)
 Agent experimentation sandbox for building and iterating on multi-step AI workflows and orchestration logic.  
 **Stack:** Python, OpenAI API, Tool-Calling Frameworks
-
----
-
-### [Quirk AI Kiosk – Automotive Showroom Platform](https://github.com/mpalmer79/quirk-ai-kiosk)
-AI-powered automotive showroom kiosk enabling intelligent vehicle search, structured comparison logic, and real-time inventory integration.  
-**Stack:** Next.js, TypeScript, API Integrations
 
 ---
 
@@ -195,7 +193,3 @@ I build systems with that standard.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
-
----
-
-<sub>Banner photo by <a href="https://unsplash.com/@jakubzerdzicki">Jakub Żerdzicki</a> on <a href="https://unsplash.com">Unsplash</a></sub>
