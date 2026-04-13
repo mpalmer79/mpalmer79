@@ -1,195 +1,101 @@
 # Michael Palmer
 
-AI Deployment & Solutions Specialist  
-Automotive AI • Full-Stack Systems • Workflow Automation  
-(Greater Boston area)
+**AI Deployment & Solutions Specialist**  
+Applied AI for automotive operations, workflow automation, and decision support
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mpalmer79&label=Profile%20Views&color=0A66C2&style=flat" />
-</p>
+I build practical AI systems that solve real business problems. My work sits at the intersection of full-stack engineering, LLM integration, and operational workflows, with a strong focus on tools that people can actually use in production.
 
----
+I recently worked in automotive retail building and deploying AI-driven tools for compliance support, inventory visibility, customer engagement, and internal workflow automation. Before that, I spent over 3 years at CDK Global working in onsite implementation and training roles across dealership environments.
 
-## About
+## What I focus on
 
-I design and deploy practical AI systems that integrate directly into real-world business workflows.  
-My focus is applied AI — production-ready systems that improve operations, visibility, and decision-making.
+- AI systems tied to real business workflows
+- Full-stack products using React, Next.js, TypeScript, Python, and APIs
+- LLM applications with guardrails, structured outputs, and explainable logic
+- Document intelligence, compliance support, and operational tooling
+- Automotive retail systems, dealership processes, and decision support tools
 
-Primary domains:
-- Automotive retail intelligence
-- AI-assisted workflow automation
-- Multi-agent systems & orchestration
-- Real-time operational dashboards
-- Human-in-the-loop AI tooling
+## Current direction
 
----
+I am most interested in roles and projects involving:
 
-## Core Capabilities
+- Applied AI engineering
+- AI deployment and solutions architecture
+- Workflow automation
+- Intelligent document processing
+- Decision support systems
+- Automotive and operations-focused software
 
-### Primary Stack
+## Featured work
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1e293b?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1e293b?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-1e293b?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-1e293b?style=flat&logo=openai&logoColor=white" />
-</p>
+### [chevyinventory](https://github.com/mpalmer79/chevyinventory)
+Dealer inventory intelligence tool built to turn spreadsheet-heavy vehicle data into a more usable operational dashboard. Focused on visibility, drill-down analysis, and faster decision-making for dealership teams.
 
-### Platforms & Deployment
+**Highlights:** inventory parsing, KPI drill-downs, dashboard UX, operational reporting
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Netlify-1e293b?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-1e293b?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-1e293b?style=flat&logo=railway&logoColor=white" />
-</p>
+### [replygenius-ai](https://github.com/mpalmer79/replygenius-ai)
+AI-assisted communication platform for generating structured responses across business workflows. Built around speed, consistency, and practical output quality.
 
-### Data & Services
+**Highlights:** LLM integration, prompt workflow design, structured response generation
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-1e293b?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-1e293b?style=flat&logo=twilio&logoColor=white" />
-</p>
+### [pharma-rep-trainer](https://github.com/mpalmer79/pharma-rep-trainer)
+AI roleplay and coaching platform for conversation practice, objection handling, and guided feedback. Designed as a scenario-driven training system rather than a simple chatbot.
 
-### AI Tooling
+**Highlights:** simulation design, coaching workflows, LLM-driven interaction design
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-1e293b?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-1e293b?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_Code-1e293b?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-1e293b?style=flat&logo=x&logoColor=white" />
-</p>
+### [agentforge](https://github.com/mpalmer79/agentforge)
+Documentation and experimentation space for agentic workflows, orchestration ideas, and AI tooling patterns.
 
----
+**Highlights:** agent workflow design, developer documentation, applied experimentation
 
-## Selected Work
+### [AegisRange](https://github.com/mpalmer79/AegisRange)
+Security-focused software project exploring modular backend architecture, event flows, incident handling, and production-minded engineering practices.
 
-### [AgentHub](https://github.com/mpalmer79/AgentHub)
-Centralized AI agent orchestration platform for building, testing, and deploying structured multi-agent workflows. Designed for scalable coordination, tool integration, and operational AI control layers.  
-**Stack:** Python, FastAPI, WebSockets, OpenAI API, PostgreSQL
+**Highlights:** backend architecture, service boundaries, reliability mindset, secure design thinking
 
----
+## Recent hands-on work
 
-### [LivePulse – AI Insights Engine](https://github.com/mpalmer79/livepulse)
-Real-time operational intelligence platform that ingests event streams, evaluates rolling metrics, and broadcasts AI-driven recommendations via WebSocket architecture.  
-**Stack:** Python, FastAPI, WebSockets, React, PostgreSQL
+Some of the most relevant work I have done recently has been in private repositories and internal projects, including:
 
----
+- AI-assisted compliance and document review workflows
+- Automotive trade appraisal and customer engagement tools
+- AI kiosk and conversational guidance systems
+- Transactional workflow tooling with production email integration
+- Internal dashboards and operational decision-support applications
 
-### [Cyber Shield](https://github.com/mpalmer79/cyber-shield)
-AI-powered cybersecurity simulation platform focused on phishing detection, social engineering awareness, and interactive training workflows.  
-**Stack:** Next.js 14, React 18, TypeScript
+## Tech I use most
 
----
+**Languages & frameworks**  
+Python, TypeScript, JavaScript, React, Next.js, FastAPI, Node.js
 
-### [ReplyGenius AI](https://github.com/mpalmer79/replygenius-ai)
-AI-assisted communication drafting system built for structured, fast, and consistent response generation across professional workflows.  
-**Stack:** TypeScript, OpenAI API
+**AI & integration**  
+OpenAI APIs, prompt engineering, structured outputs, tool-calling patterns, human-in-the-loop workflows
 
----
+**Data & platforms**  
+PostgreSQL, Supabase, WebSockets, Vercel, Netlify, Railway, GitHub Actions
 
-### [Pharma Rep Trainer](https://github.com/mpalmer79/pharma-rep-trainer)
-AI-driven sales training and roleplay platform simulating pharmaceutical rep conversations, objection handling, and structured coaching feedback.  
-**Stack:** Python, LLM Integration, Scenario Simulation Engine
+**Workflow style**  
+API-first design, modular architecture, production debugging, environment-based configuration, practical deployment
 
----
+## Background
 
-### [AgentForge](https://github.com/mpalmer79/agentforge)
-Agent experimentation sandbox for building and iterating on multi-step AI workflows and orchestration logic.  
-**Stack:** Python, OpenAI API, Tool-Calling Frameworks
+I am a Computer Science student at Southern New Hampshire University and a builder focused on practical, career-relevant software. My strongest work comes from combining business context with technical execution.
 
----
+I do not treat AI as a novelty layer. I focus on systems that need to be useful, explainable, maintainable, and aligned with real operational constraints.
 
-## Architecture Overview
+## What stands out about my work
 
-### AgentHub – Multi-Agent Orchestration
-
-```mermaid
-flowchart LR
-    UI[Admin / Control UI] --> API[FastAPI Orchestrator]
-    API --> AGENTS[Agent Layer]
-    AGENTS --> TOOLS[Tool Integrations]
-    AGENTS --> LLM[LLM Provider APIs]
-    API --> DB[(PostgreSQL)]
-    API --> WS[WebSocket Broadcast Layer]
-```
-
-### LivePulse – Real-Time AI Insights Engine
-
-```mermaid
-flowchart LR
-    EVENTS[Event Stream] --> ENGINE[Insights Engine]
-    ENGINE --> METRICS[Rolling Window Metrics]
-    METRICS --> LLM[LLM Evaluation]
-    ENGINE --> WS[WebSocket Broadcast]
-    WS --> DASH[Operational Dashboard]
-    ENGINE --> DB[(PostgreSQL)]
-```
-
----
-
-## Operational Metrics
-
-### AgentHub
-- Multi-agent workflow execution with structured tool-calling
-- Real-time orchestration via async FastAPI
-- WebSocket broadcast architecture for live state updates
-- Modular agent framework supporting scalable expansion
-
-### LivePulse
-- Rolling window metric evaluation engine
-- Sub-second event ingestion pipeline
-- Real-time dashboard broadcast architecture
-- AI-driven recommendation layer integrated with operational data
-
-### Cyber Shield
-- Interactive phishing simulation workflows
-- Scenario-based AI evaluation
-- Structured training feedback loops
-
----
-
-## System Design Principles
-
-- Workflow-first design
-- Reliability over novelty
-- Composable architecture
-- Event-driven real-time systems
-- Human-in-the-loop AI
-- Security-conscious engineering
-- Built-in observability
-
----
-
-## Production Readiness Standards
-
-- Structured outputs for AI reliability  
-- Safe tool execution & permission boundaries  
-- Clear API/service boundaries  
-- Secure secret management  
-- Graceful failure handling  
-- Operational logging & traceability  
-- Maintainable, modular architecture  
-
----
-
-## Philosophy
-
-AI should:
-- Reduce friction
-- Increase clarity
-- Integrate into existing workflows
-- Deliver measurable operational lift
-
-I build systems with that standard.
-
----
+- Strong automotive domain context
+- Real experience building for messy business processes
+- Comfortable across product, engineering, deployment, and workflow design
+- Focused on systems that improve clarity, speed, and decision quality
+- Able to connect AI capabilities to actual operational use cases
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-mpalmer79-181717?style=for-the-badge&logo=github)](https://github.com/mpalmer79)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Palmer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpalmer1234/)
+- GitHub: [github.com/mpalmer79](https://github.com/mpalmer79)
+- LinkedIn: [linkedin.com/in/mpalmer1234](https://www.linkedin.com/in/mpalmer1234/)
+
+---
+
+I am always interested in opportunities where applied AI, software engineering, and operational problem-solving come together.
